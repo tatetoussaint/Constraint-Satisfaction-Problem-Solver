@@ -51,7 +51,7 @@ Implementation: `CircuitBoardCSP` takes in a list of components (represented by 
 Running the Constraint Satisfaction Solver
 ---------------------
 
-To run the CSP solver on various example problems, run `test.py`. You can edit the parameters to the initializations of BacktrackingSearch to turn on and off the heuristics and AC-3. You can also manually add region dictionaries for new map coloring problems or adjust the size of the circuit board width/height and the number and size of components to experiment with the solver.
+To run the CSP solver on various example problems, run `TestCSP.py`. You can edit the parameters to the initializations of BacktrackingSearch to turn on and off the heuristics and AC-3. You can also manually add region dictionaries for new map coloring problems or adjust the size of the circuit board width/height and the number and size of components to experiment with the solver.
 
 Example Output:
 ```
